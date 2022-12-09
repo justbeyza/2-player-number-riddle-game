@@ -1,2 +1,2 @@
-# 2-Kisilik-Sayi Bilmece-Oyunu
-Öncelikle bu oyun 2 kişilik ve programı başlatmak için start butonuna basmanız gerekiyor, programı başlatınca "1.Oyuncu Tahmini" yazısının altına oyuna ilk kim başlıyor ise o kişi bir sayı girecek, ilk kişi 1-10 arasında sayı girdikten sonra 2.oyuncu girecek. Programımız bu kadar. :)
+# 2 player number riddle game
+The file you need to enter: program.cs - Usually this game is for 2 players and you have to press the start button to start the program, when you start the program, the person who enters the game first enters a number under the "1st Player Guess" text. Then the second player enters. That's it for our program. :)
